@@ -1,4 +1,4 @@
-name: Windows - H2S - CM - CUSTOM -Server 4
+name: Windows - H2S - CM - CUSTOM - S4
 
 on:
   workflow_dispatch:
